@@ -3,10 +3,10 @@
   "Platform": "DockerFile",
   "Flavor": "Windows",
   "ExporterVersion": "2.0",
-  "ExportedDate": "2019-09-25T14:57:08.5572907Z",
-  "IterationId": "1726ec0c-821b-4920-9554-c23c9e9548ac",
+  "ExportedDate": "2019-09-30T18:21:37.3620874Z",
+  "IterationId": "0d32310d-5298-487f-911e-7e7245b6b0bd",
   "ModelFileName": "model.pb",
   "LabelFileName": "labels.txt",
-  "ModelFileSHA1": "e8bdd3bdc5ddad554af5a419fd656272f0639497",
+  "ModelFileSHA1": "1bdb0fd955105bbedb24abd9c39d33d7577d9d2b",
   "SchemaVersion": "1.0"
 }
